@@ -1,0 +1,72 @@
+a_yeah:
+	total packets = 34439
+	retransmissions = 447
+	packet loss rate = 1.2979%
+a_bbr:
+	total packets = 8095
+	retransmissions = 37
+	packet loss rate = 0.4570%
+a_westwood:
+	total packets = 23166
+	retransmissions = 240
+	packet loss rate = 1.0360%
+b_yeah:
+	total packets = 28594
+	retransmissions = 259
+	packet loss rate = 0.9057%
+b_bbr:
+	total packets = 17770
+	retransmissions = 69
+	packet loss rate = 0.3882%
+b_westwood:
+	total packets = 10707
+	retransmissions = 407
+	packet loss rate = 3.8012%
+c1_yeah:
+	total packets = 83818
+	retransmissions = 2
+	packet loss rate = 
+c2a_yeah:
+	total packets = 159126
+	retransmissions = 21
+	packet loss rate = 
+c2b_yeah:
+	total packets = 96081
+	retransmissions = 23
+	packet loss rate = 
+c2c_yeah:
+	total packets = 258318
+	retransmissions = 31
+	packet loss rate = 
+d1.1_yeah:
+	total packets = 86345
+	retransmissions = 722
+	packet loss rate = 
+d2a.1_yeah:
+	total packets = 129265
+	retransmissions = 799
+	packet loss rate = 
+d2b.1_yeah:
+	total packets = 144298
+	retransmissions = 1007
+	packet loss rate = 
+d2c.1_yeah:
+	total packets = 217164
+	retransmissions = 1075
+	packet loss rate = 
+d1.5_yeah:
+	total packets = 254453
+	retransmissions = 9282
+	packet loss rate = 
+d2a.5_yeah:
+	total packets = 217227
+	retransmissions = 5512
+	packet loss rate = 
+d2b.5_yeah:
+	total packets = 262676
+	retransmissions = 8634
+	packet loss rate = 
+d2c.5_yeah:
+	total packets = 177742
+	retransmissions = 3556
+	packet loss rate = 
